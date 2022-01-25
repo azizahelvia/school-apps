@@ -1,6 +1,6 @@
 @extends('layouts.app')
 @section('content')
 
-<h1>Home</h1>
+<h1>Ini adalah halaman blog</h1>
 
 @endsection
